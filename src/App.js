@@ -32,6 +32,7 @@ function App() {
 					rel='noopener noreferrer'>
 					Learn React
 				</a>
+        <p>{gifs}</p>
 			</header>
 		</div>
 	);
